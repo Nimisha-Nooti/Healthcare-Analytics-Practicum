@@ -1,1 +1,1 @@
-# Healthcare-Analytics-Practicum
+# Predicting Covid-19 High Risk Counties Across NY State 
